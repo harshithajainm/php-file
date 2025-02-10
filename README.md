@@ -1,2 +1,26 @@
 # php-file
-Customers can create accounts at a bank branch. They can deposit and withdraw money, check their balance, and make payments. Customers can access additional services such as loans and insurance access their accounts securely via the bank's website.
+# VTU-DBMS-MINI-PROJECT-BANK-MANAGEMENT-SYSTEM-USING-PHP
+IT IS A VTU 5TH SEM DBMS MINI PROJECT . 
+
+PROJECT TITLE : BANK MANAGEMENT SYSTEM REFERED from youtube.
+
+LANGUAGE USED :PHP AND SQL. 
+
+
+
+
+
+REQUIREMENTS TO RUN THIS PROGRAM 
+INSTALL XAMPP FROM :https://www.apachefriends.org/download.html
+DOWNLOAD THE ZIP FILE AND EXTRACT IT  
+COPY THE EXTRACTED FILE AND PASTE IT IN HTDOCS {LOCALDISK C >XAMPP>HTDOCS } 
+OPEN XAMPP ,START APACHE AND MYSQL SERVER . CLICK ON ADMIN OF MYSQL AND CREATE A DATABASE AND IMPORT THE DATABASE FILE FROM THE EXTRACTED FILE.  
+TYPE https://localhost/CECBANK.PHP/  
+MYBANK NAME IS CECBANK YOU CAN EDIT THE PROJECT USING VSCODE BY CLICKING OPEN WITH VSCODE ON THE EXTRACTED FILE.  
+INSTALL VSCODE FOR PROGRAM EDITING.
+
+
+You can change password using these steps :xampp(app)>under sql click on admin>cecbank database.
+
+Dm for code (100rs (+250rs with report)):@afridpashahp
+
